@@ -112,8 +112,6 @@ cp -r grub ./ezreleng/
 cp -r efiboot ./ezreleng/
 cp -r syslinux ./ezreleng/
 cp -r etc ./ezreleng/airootfs/
-cp -r opt ./ezreleng/airootfs/
-cp -r usr ./ezreleng/airootfs/
 }
 
 # Set hostname
